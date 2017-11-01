@@ -6,8 +6,8 @@ import java.sql.SQLException;
 
 public class database {
 	private static final String URL = "jdbc:mysql://localhost:3306/hotel?characterEncoding=utf8";
-	private static final String UNAME = "root";
-	private static final String PWD = "hzp";
+	private static final String UNAME = "***";
+	private static final String PWD = "***";
 	private static Connection connect = null;
 	
 	static{
